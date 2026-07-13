@@ -1,36 +1,36 @@
 [
   {
     "id": 1,
-    "name": "بازی نمونه ۱",
+    "name": "Ø¨Ø§Ø²Û ÙÙÙÙÙ Û±",
     "cover": "https://via.placeholder.com/300x150/0a0a0a/00ffff?text=Game+1",
-    "modName": "مود فوقالعاده",
+    "modName": "ÙÙØ¯ ÙÙÙØ§ÙØ¹Ø§Ø¯Ù",
     "downloadLink": "#",
-    "description": "این یک توضیح برای بازی است.",
-    "notes": "نکته خاصی وجود ندارد.",
+    "description": "Ø§ÛÙ ÛÚ© ØªÙØ¶ÛØ­ Ø¨Ø±Ø§Û Ø¨Ø§Ø²Û Ø§Ø³Øª.",
+    "notes": "ÙÚ©ØªÙ Ø®Ø§ØµÛ ÙØ¬ÙØ¯ ÙØ¯Ø§Ø±Ø¯.",
     "players": "2-4",
     "platform": "Windows",
-    "status": "فعال",
+    "status": "ÙØ¹Ø§Ù",
     "lastUpdate": "2026-07-13",
     "tags": [
-      "اکشن",
-      "ماجراجویی"
+      "Ø§Ú©Ø´Ù",
+      "ÙØ§Ø¬Ø±Ø§Ø¬ÙÛÛ"
     ]
   },
   {
     "id": 2,
-    "name": "بازی نمونه ۲",
+    "name": "Ø¨Ø§Ø²Û ÙÙÙÙÙ Û²",
     "cover": "https://via.placeholder.com/300x150/0a0a0a/ff00ff?text=Game+2",
-    "modName": "مود باگ‌ها",
+    "modName": "ÙÙØ¯ Ø¨Ø§Ú¯âÙØ§",
     "downloadLink": "#",
-    "description": "یک بازی دیگر برای تست.",
-    "notes": "این بازی در حال توسعه است.",
+    "description": "ÛÚ© Ø¨Ø§Ø²Û Ø¯ÛÚ¯Ø± Ø¨Ø±Ø§Û ØªØ³Øª.",
+    "notes": "Ø§ÛÙ Ø¨Ø§Ø²Û Ø¯Ø± Ø­Ø§Ù ØªÙØ³Ø¹Ù Ø§Ø³Øª.",
     "players": "1",
     "platform": "Linux",
-    "status": "بتا",
+    "status": "Ø¨ØªØ§",
     "lastUpdate": "2026-07-10",
     "tags": [
-      "تکنفره",
-      "آزمایشی"
+      "ØªÚ©ÙÙØ±Ù",
+      "Ø¢Ø²ÙØ§ÛØ´Û"
     ]
   },
   {
@@ -48,5 +48,20 @@
     "tags": [
       "sad"
     ]
+  },
+  {
+    "id": 1783954923,
+    "name": "سش",
+    "cover": "https://clouddosage.com/wp-content/uploads/2022/12/8969.jpg",
+    "banner": "https://clouddosage.com/wp-content/uploads/2022/12/8969.jpg",
+    "modName": "یشسیشیشسیشسیسشیسشیشس",
+    "downloadLink": "https://clouddosage.com/wp-content/uploads/2022/12/8969.jpg",
+    "description": "شسیشسی",
+    "notes": "شسیشسی شسیشس ی",
+    "players": "8",
+    "platform": "window",
+    "status": "Active",
+    "lastUpdate": "2026-07-13",
+    "tags": []
   }
 ]
